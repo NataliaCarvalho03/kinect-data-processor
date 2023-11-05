@@ -2,6 +2,8 @@
 
 This project estimate a point cloud by processing xbox 360 kinect sensor data.
 
+This is a early development project, created for educational purposes. Use it at your own risk.
+
 ## Data Organization
 
 Clone the project, install the requirements. The RGB and depth frames must be stored in separated directories and must have standard names. Example:
