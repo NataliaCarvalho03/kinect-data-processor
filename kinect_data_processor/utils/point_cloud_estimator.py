@@ -1,4 +1,4 @@
-from .utils.constants import *
+from .constants import *
 
 def get_point_cloud(rgb, depth, P=None, K=None, R=None, T=None):
     cloud = []

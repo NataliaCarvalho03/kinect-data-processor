@@ -1,6 +1,6 @@
-from .read_data import read_frame_files, write_point_cloud
+from .utils.read_data import read_frame_files, write_point_cloud
 from .utils.helpers import get_depth_values
-from .point_cloud_estimator import get_point_cloud
+from .utils.point_cloud_estimator import get_point_cloud
 
 
 def start_main_pipeline(rgb_dir_path: str, depth_dir_path: str):
