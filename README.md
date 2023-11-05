@@ -18,7 +18,7 @@ Clone the project, install the requirements. The RGB and depth frames must be st
 
 Observed that depth-1.png is related to rgb-1.png.
 
-## Runnint the software
+## Running the software
 
 Once you have your RBG and depth images organized, use the following command:
 
